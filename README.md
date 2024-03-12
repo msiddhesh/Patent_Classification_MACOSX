@@ -8,11 +8,20 @@ Label (9 classes): The patent classification according to the European Patent Of
 Categories:
 
 1 (Human Necessities),
+
 2 (Performing Operations; Transporting),
+
 3 (Chemistry; Metallurgy),
+
 4 (Textiles; Paper),
+
 5 (Fixed Constructions),
+
 6 (Mechanical Engineering; Lightning; Heating; Weapons; Blasting),
+
 7 (Physics),
+
 8 (Electricity), and
+
 9 (General tagging of new or cross-sectional technology)
+
